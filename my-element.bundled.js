@@ -269,7 +269,7 @@ class lt extends ot{constructor(t){if(super(t),this.it=R,t.type!==et)throw Error
             z-index: 1003;
             display: none;
         }
-    `;fetchData=async()=>{const t=await fetch("../assets/data.json");return(await t.json()).cantantes};static properties={content:{state:!0},childState:{type:Boolean}};constructor(){super(),this.childState=!1,this.fetchData().then((t=>{this.content=t})),document.addEventListener("bloqueo",(t=>{this.childState=t.detail}))}render(){const t={display:this.childState?"block":"none"};return U`
+    `;fetchData=async()=>{const t=await fetch("./assets/data.json");return(await t.json()).cantantes};static properties={content:{state:!0},childState:{type:Boolean}};constructor(){super(),this.childState=!1,this.fetchData().then((t=>{this.content=t})),document.addEventListener("bloqueo",(t=>{this.childState=t.detail}))}render(){const t={display:this.childState?"block":"none"};return U`
             <div class="bloqueo" style=${nt(t)}></div>
             ${
 /**
