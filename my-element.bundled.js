@@ -41,7 +41,7 @@ const it=1,et=2,st=t=>(...i)=>({_$litDirective$:t,values:i});class ot{constructo
             padding: 0;
             width: 100%;
             height: 100%;
-            background-image: url('../assets/images/fondo-video.jpg');
+            background-image: url('./assets/images/fondo-video.jpg');
             z-index: 1000;
             transition: all .5s ease-in-out;
             align-items: center;
@@ -68,7 +68,7 @@ const it=1,et=2,st=t=>(...i)=>({_$litDirective$:t,values:i});class ot{constructo
         }
     `;static properties={mover:{type:Boolean},videoSrc:{},videobSrc:{}};constructor(){super(),this.mover=!1}render(){return U`
         <div class="load-block">
-            <img src="../assets/images/loader-puff.svg">
+            <img src="./assets/images/loader-puff.svg">
         </div>
         <p>En estudio:</p>
         <iframe
