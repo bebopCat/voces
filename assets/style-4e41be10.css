@@ -1,0 +1,36 @@
+@font-face{
+    font-family: "openSansMedium";
+    src: url("fonts/OpenSans-Medium.ttf");
+}
+@font-face{
+    font-family: "openSansBold";
+    src: url("fonts/OpenSans-Bold.ttf");
+}
+@font-face{
+    font-family: "CormorantGaramond-Medium";
+    src: url("fonts/CormorantGaramond-Medium.ttf");
+}
+@font-face{
+    font-family: "LouisGeorgeCafe-Medium";
+    src: url("fonts/LouisGeorgeCafe-Medium.ttf");
+}
+@font-face{
+    font-family: "Providence";
+    src: url("fonts/providence.ttf");
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

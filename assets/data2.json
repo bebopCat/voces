@@ -1,0 +1,49 @@
+{
+    "cantantes": [
+        {
+            "id": 0,
+            "nombre": "Pedro Infante",
+            "rango": "Desconocido",
+            "genero": "Bolero ranchero",
+            "imagen": "pedro-infante.jpg",
+            "banda": "Solista",
+            "biografia": "<p><b>Pedro Infante Cruz</b> (Mazatlán, Sinaloa, 18 de noviembre de 1917-Mérida, Yucatán, 15 de abril de 1957) fue un actor y cantante mexicano. Es considerado como uno de los actores más recordados del cine en México.</p><br><p>Por su actuación en la película Tizoc (1956), fue ganador de un Oso de Plata del Festival Internacional de Cine de Berlín en la categoría a «mejor actor principal», y también obtuvo un premio Globo de Oro por mejor película extranjera, el cual se le fue otorgado por la prensa extranjera acreditada en Hollywood.</p>",
+            "video": "https://www.youtube.com/embed/qEcIMH2shMk",
+            "videoB": "https://www.youtube.com/embed/StlGmiixoy8"
+        },
+        {
+            "id": 1,
+            "nombre": "Celio Gonzalez",
+            "rango": "Desconocido",
+            "genero": "Bolero",
+            "imagen": "celio-gonzalez.jpg",
+            "banda": "Solista",
+            "biografia": "<p><b>Pedro Infante Cruz</b> Sus inicios artísticos fueron estimulados por su madre, ya que lo protegía por la enfermedad hereditaria denominada focomelia, que le provocó nacer sin dos dedos de la mano y de los pies. De niño ayudaba a su madre a la venta de artículos de artesanía.</p><br><p>Participó en el concurso de La Corte Suprema del Arte realizado en Sancti Spíritus. Residió algún tiempo en Camagüey y allí, con diecisiete años de edad, trabajó en la orquesta de Joaquín Mendivel, así como en el Conjunto Camacho. Fundó el Trío Nacional. Se trasladó a La Habana donde se empleó como cantante de los conjuntos Los Jóvenes del Cayo de Alfonsín Quintana, el de Luis Santí y el Conjunto Casino.</p><br><p>Su época de oro empezó el 23 de mayo de 1956, con la Sonora Matancera, dirigida a la sazón por Rogelio Martínez. Fue cantante de planta de la orquesta en sustitución de Bienvenido Granda y Laíto Sureda.</p><br><p>La primera canción que grabó fue el bolero-rítmico \"Quémame los ojos\", su primer gran éxito, y luego otros como \"Total\", \"Amor sin Esperanza\", \"Y no me engañes Más\", \"Besito de Coco\".</p><br><p>En 1959 ya Fidel Castro gobernaba la isla, cuando Celio regresaba de una gira, cuando se dio con la desagradable sorpresa que le habían confiscado todos su bienes, y al verse en la desesperación, viajó a Ciudad de México junto a su esposa Martha Torres y sus hijos Celio Lázaro y Linda Elisa. contratado por la empresa de discos Orfeón, y fijó su residencia en ese país. En 1962 retornó a la Sonora Matancera y nuevamente firmó para Seeco Records, quedándose hasta 1965. Se añadieron nuevos éxitos \"Yo soy el Son Cubano\", \"Vámonos de Fiesta\", \"Nobleza\", \"Noche de Farra\".</p><br><p>Actuó en radio, televisión, teatro, centros nocturnos y grabó varios discos de larga duración. Se destacó en el bolero, aunque interpretó casi todos los ritmos. Entre sus grabaciones más recordadas está el bolero de José Dolores Quiñones \"Vendaval sin rumbo\". Se le conoció bajo el epíteto de \"El flaco de oro\". En México se publicó un libro sobre su vida y obra. En el 2003 participó en un homenaje póstumo a Celia Cruz. Falleció de un paro respiratorio. Antes de su fallecimiento logró grabar un disco de boleros en homenaje a José Antonio Méndez.</p>",
+            "video": "https://www.youtube.com/embed/Ik7CTwLMP74",
+            "videoB": "https://www.youtube.com/embed/-8s6MWgIjEQ"
+        },
+        {
+            "id": 2,
+            "nombre": "Layne Staley",
+            "rango": "Tenor dramático",
+            "genero": "Grunge",
+            "imagen": "layne-staley.jpg",
+            "banda": "Alice in chains",
+            "biografia": "<p><b>Layne Thomas Staley</b> (Kirkland, Washington, 22 de agosto de 1967-Seattle, Washington, 5 de abril de 2002) fue un músico estadounidense, vocalista y letrista de Alice in Chains, una de las bandas más importantes del movimiento rock alternativo y grunge en Seattle. Se hizo famoso por su distintivo y desgarrador estilo vocal siendo Tenor dramático. Durante toda su carrera, luchó contra una severa adicción a las drogas, que terminaría causando su muerte en abril de 2002.</p>",
+            "video": "https://www.youtube.com/embed/3Vp56IAkDJA",
+            "videoB": "https://www.youtube.com/embed/__biilMpnmw"
+        },
+        {
+            "id": 2,
+            "nombre": "",
+            "rango": "",
+            "genero": "",
+            "imagen": ".jpg",
+            "banda": "",
+            "biografia": "<p><b></b></p>",
+            "video": "",
+            "videoB": ""
+        }
+    ]
+}
+
