@@ -1,22 +1,22 @@
 @font-face{
     font-family: "openSansMedium";
-    src: url("fonts/OpenSans-Medium.ttf");
+    src: url("/assets/fonts/OpenSans-Medium.ttf");
 }
 @font-face{
     font-family: "openSansBold";
-    src: url("fonts/OpenSans-Bold.ttf");
+    src: url("/assets/fonts/OpenSans-Bold.ttf");
 }
 @font-face{
     font-family: "CormorantGaramond-Medium";
-    src: url("fonts/CormorantGaramond-Medium.ttf");
+    src: url("/assets/fonts/CormorantGaramond-Medium.ttf");
 }
 @font-face{
     font-family: "LouisGeorgeCafe-Medium";
-    src: url("fonts/LouisGeorgeCafe-Medium.ttf");
+    src: url("/assets/fonts/LouisGeorgeCafe-Medium.ttf");
 }
 @font-face{
     font-family: "Providence";
-    src: url("fonts/providence.ttf");
+    src: url("/assets/fonts/providence.ttf");
 }
 
 * {
